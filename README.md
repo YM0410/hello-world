@@ -1,3 +1,6 @@
 # hello-world
-just another repository
-well just change and commmit
+
+Hi!Humans:
+
+Hubot here,I'm like node.js and coffeescript (that's what I'm made of!)
+I've had tacos on the and find them far superior to Earth tacos.
